@@ -75,5 +75,13 @@ random_demo(env, render=True, episodes=1)
 
 ## Credits
 
-- [pettingzoo](https://www.pettingzoo.ml/#)
-- 
+- [`pettingzoo` website](https://www.pettingzoo.ml/#)
+- [TDS | `pettingzoo` tutorial 1](https://towardsdatascience.com/multi-agent-deep-reinforcement-learning-in-15-lines-of-code-using-pettingzoo-e0b963c0820b)
+- [TDS | `pettingzoo` tutorial 2](https://towardsdatascience.com/using-pettingzoo-with-rllib-for-multi-agent-deep-reinforcement-learning-5ff47c677abd)
+
+
+
+
+
+
+
