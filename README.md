@@ -34,7 +34,7 @@ for step in range(max_cycles):
 
 Attributes: `agents`, `num_agents`, `possible_agents`, `max_num_agents`, `observation_spaces`, `action_spaces` 
 
-Methods: `render(mode='human')`, `seed(seed=None)`, `close()` 
+Methods: `render(mode='human')`, `seed(seed=None)`, `close()`, `observation_space(agent)`, `action_space(agent)`
 
 `step(actions)`: receives a dictionary of actions keyed by the agent name. 
 Returns the observation dictionary, reward dictionary, done dictionary, and info dictionary, 
