@@ -78,6 +78,7 @@ random_demo(env, render=True, episodes=1)
 - [`pettingzoo` website](https://www.pettingzoo.ml/#)
 - [TDS | `pettingzoo` tutorial 1](https://towardsdatascience.com/multi-agent-deep-reinforcement-learning-in-15-lines-of-code-using-pettingzoo-e0b963c0820b)
 - [TDS | `pettingzoo` tutorial 2](https://towardsdatascience.com/using-pettingzoo-with-rllib-for-multi-agent-deep-reinforcement-learning-5ff47c677abd)
+- [SOF | install box2d](https://stackoverflow.com/questions/54252800/python-cant-install-box2d-swig-exe-failed-with-error-code-1/59596775#59596775)
 
 
 
